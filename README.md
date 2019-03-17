@@ -1,8 +1,8 @@
 # daily_programmer
 
-[2/11/2012] Challenge #3 [easy]
-Welcome to cipher day!
+[2/12/2012] Challenge #4 [easy]
+You're challenge for today is to create a random password generator!
 
-write a program that can encrypt texts with an alphabetical caesar cipher. This cipher can ignore numbers, symbols, and whitespace.
+For extra credit, allow the user to specify the amount of passwords to generate.
 
-for extra credit, add a "decrypt" function to your program!
+For even more extra credit, allow the user to specify the length of the strings he wants to generate!
