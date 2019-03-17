@@ -1,8 +1,6 @@
 # daily_programmer
 
-[2/12/2012] Challenge #5 [easy]
-Your challenge for today is to create a program which is password protected, and wont open unless the correct user and password is given.
+[2/14/2012] Challenge #6 [easy]
+You're challenge for today is to create a program that can calculate pi accurately to at least 30 decimal places.
 
-For extra credit, have the user and password in a seperate .txt file.
-
-for even more extra credit, break into your own program :)
+Try not to cheat :)
