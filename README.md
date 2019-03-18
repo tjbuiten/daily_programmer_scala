@@ -1,3 +1,3 @@
-# Lists
+# Immutable data types and Higher Order Functions
 This is a branch used to practice for some of the material assigned during the 'functional programming' course
-given during the third year of the computer science classes from Avans in Breda.
+he computer science classes from Avans in Breda.given during the third year of t
