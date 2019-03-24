@@ -1,3 +1,13 @@
-# Assignments Functional Programming
-This is a branch used to practice for some of the material assigned during the 'functional programming' course
-he computer science classes from Avans in Breda.given during the third year of t
+# daily_programmer
+
+Write a program that can translate Morse code in the format of ...---...
+
+A space and a slash will be placed between words. ..- / --.-
+
+For bonus, add the capability of going from a string to Morse code.
+
+Super-bonus if your program can flash or beep the Morse.
+
+This is your Morse to translate:
+
+.... . .-.. .-.. --- / -.. .- .. .-.. -.-- / .--. .-. --- --. .-. .- -- -- . .-. / --. --- --- -.. / .-.. ..- -.-. -.- / --- -. / - .... . / -.-. .... .- .-.. .-.. . -. --. . ... / - --- -.. .- -.--
