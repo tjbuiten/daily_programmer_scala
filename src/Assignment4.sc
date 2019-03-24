@@ -18,16 +18,9 @@ def superCoolFunction(list: List[Int], option: OptionEnum.Value, string: Option[
     case OptionEnum.Largest => Left(Some(list.max))
     case OptionEnum.Replicate =>
       string match {
-        case Some(value) => Right(Array(value, value, value))
+        case Some(value) => Right(Array.fill(times.get)(value))
         case None => throw new RuntimeException()
       }
-  }
-}
-
-def largest(): Option[Int] = {
-  (intList, max) match {
-    case (Nil, None) => None
-    case (head::tail, a: Some[Int]) => a
   }
 }
 
