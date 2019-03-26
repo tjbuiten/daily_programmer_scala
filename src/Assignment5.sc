@@ -1,5 +1,3 @@
-import scala.runtime.Tuple3Zipped
-
 /**
   * Write a function that returns a closure that prepends any string with the sequence number
   * of the message and prints it on the console. It should display the behavior below. What
