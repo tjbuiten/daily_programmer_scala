@@ -25,7 +25,7 @@ setProfession("my profession")
   * Can you use the curried version of concat to produce (exercise 1) a function that takes the
   * name of a 21 year old programmer?
   */
-// No
+var setName = concat(_: String)(21)("programmer")
 
 /**
   * Write a curried function that takes two arguments, the lucky number and a function
@@ -47,4 +47,4 @@ def lucky(luckyNumber: Int)(strategy: () => Int): Int = strategy()
   * have the same lucky number (Hint: you can use the curried function to do partial
   * application!
   */
-var game = lucky(1)
+var game = lucky(1)(_: () => Int)
